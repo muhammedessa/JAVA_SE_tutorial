@@ -1,0 +1,5 @@
+package defaultPackage;
+
+class Person {
+}
+
